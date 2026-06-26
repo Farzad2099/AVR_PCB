@@ -17,7 +17,19 @@ It exposes all major ports of the microcontroller and provides convenient connec
 
 # 📸 Board Images
 
-
+<table>
+  <tr>
+    <td>
+      <img src="Schematics/PCB1.jpg" width="300" height="500">
+    </td>
+    <td>
+      <img src="Schematics/PCB2.jpg" width="300" height="500">
+    </td>
+     <td>
+      <img src="Schematics/PCB3.jpg" width="300" height="500">
+    </td>
+  </tr>
+</table>
 
 ---
 
