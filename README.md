@@ -8,7 +8,7 @@ A simple **AVR development board based on the ATmega16 microcontroller**, design
 This board was **personally designed for testing and experimental projects**.  
 It exposes all major ports of the microcontroller and provides convenient connectors for quick hardware interfacing.
 
-> ⚠️ This is the **first version of the board**.  
+> ⚠️ This is the **second version of the board**.  
 > Future revisions may include **improvements, optimizations, and additional features**.
 
 ---
